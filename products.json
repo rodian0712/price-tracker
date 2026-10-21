@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": "dior-sauvage-edt",
+    "name": "Dior Sauvage Eau de Toilette",
+    "variant": "Tamaño de la ficha; pendiente separar variantes",
+    "store": "Dior",
+    "url": "https://www.dior.com/es_sam/beauty/products/sauvage-eau-de-toilette-F068524009.html",
+    "enabled": true
+  },
+  {
+    "id": "ua-heatgear-navy",
+    "name": "Under Armour HeatGear Compression",
+    "variant": "Azul navy; confirmar cuello y manga",
+    "store": "Under Armour Chile",
+    "url": "https://www.underarmour.cl/products/polera-manga-corta-heatgear-hombre-azul",
+    "enabled": true
+  }
+]
